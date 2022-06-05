@@ -58,3 +58,4 @@
 *://*.paleoeffect.com/*
 *://*.butterypan.com/*
 *://*.riceexporters.co/*
+*://*.pronounceitright.com/*
