@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/lkhrs/ublacklist-rules/main/rules.txt
 
 ## Subscribed lists
 
-In addition to my own set of rules, I am also subscribed to the following lists:
+In addition to my own set of rules, I am subscribed to the following lists:
 
  [ublacklist-github-translation](https://github.com/arosh/ublacklist-github-translation)
  ```
@@ -23,12 +23,12 @@ https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBl
 
  [ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation)
  ```
- https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/uBlacklist.txt
+https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt
  ```
 
  [ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest)
 ```
-https://github.com/rjaus/ublacklist-pinterest/blob/main/ublacklist-pinterest.txt
+https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt
 ```
 
 ## Criteria and disclaimer
