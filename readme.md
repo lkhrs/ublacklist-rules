@@ -4,7 +4,9 @@ My personal set of rules for the [uBlacklist](https://github.com/iorate/ublackli
 
 Subscribe to this list:
 
-`https://raw.githubusercontent.com/lkhrs/ublacklist-rules/main/rules.txt`
+```
+https://raw.githubusercontent.com/lkhrs/ublacklist-rules/main/rules.txt
+```
 
 ## Criteria and disclaimer
 
