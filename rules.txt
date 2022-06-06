@@ -59,6 +59,7 @@
 *://*.butterypan.com/*
 *://*.riceexporters.co/*
 *://*.pronounceitright.com/*
+<<<<<<< HEAD
 *://*.hubspot.com/*
 *://*.thoughtco.com/*
 *://*.codecademy.com/*
@@ -74,3 +75,21 @@
 *://*.capterra.com/*
 *://*.10mac.com/*
 *://*.reviewed.com/*
+=======
+*://*.partitionwizard.com/*
+*://*.graphicscardhub.com/*
+*://*.pcgearhead.com/*
+*://*.grammar-monster.com/*
+*://*.prowritingaid.com/*
+*://*.drivereasy.com/*
+*://*.typesofall.com/*
+*://*.appuals.com/*
+*://*.motherboardsguru.com/*
+*://*.tencomputer.com/*
+*://*.groovypost.com/*
+*://*.askvg.com/*
+*://*.solvusoft.com/*
+*://*.exefiles.com/*
+*://*.nex-software.com/*
+*://*.ivanti.com/*
+>>>>>>> origin/main
