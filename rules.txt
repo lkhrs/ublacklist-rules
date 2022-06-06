@@ -59,7 +59,6 @@
 *://*.butterypan.com/*
 *://*.riceexporters.co/*
 *://*.pronounceitright.com/*
-<<<<<<< HEAD
 *://*.hubspot.com/*
 *://*.thoughtco.com/*
 *://*.codecademy.com/*
@@ -75,7 +74,6 @@
 *://*.capterra.com/*
 *://*.10mac.com/*
 *://*.reviewed.com/*
-=======
 *://*.partitionwizard.com/*
 *://*.graphicscardhub.com/*
 *://*.pcgearhead.com/*
@@ -92,4 +90,3 @@
 *://*.exefiles.com/*
 *://*.nex-software.com/*
 *://*.ivanti.com/*
->>>>>>> origin/main
