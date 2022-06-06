@@ -70,3 +70,8 @@
 *://*.motherboardsguru.com/*
 *://*.tencomputer.com/*
 *://*.groovypost.com/*
+*://*.askvg.com/*
+*://*.solvusoft.com/*
+*://*.exefiles.com/*
+*://*.nex-software.com/*
+*://*.ivanti.com/*
