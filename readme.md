@@ -12,6 +12,10 @@ Subscribe to this list:
 https://raw.githubusercontent.com/lkhrs/ublacklist-rules/main/rules.txt
 ```
 
+## Todo
+
+- [ ] Script to combine subscribed list into `rules.txt` to reduce hassle when setting up a new browser
+
 ## Subscribed lists
 
 In addition to my own set of rules, I am subscribed to the following lists:
