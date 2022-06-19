@@ -141,3 +141,9 @@
 *://www.passivetoactive.com/*
 *://www.passivetoactivevoiceconverter.com/*
 *://www.techbout.com/*
+*://www.answers.com/*
+*://www.whatfontis.com/*
+*://www.psd2html.com/*
+*://www.pagecloud.com/*
+*://southslopenews.com/*
+*://www.addtelegrammember.com/*
