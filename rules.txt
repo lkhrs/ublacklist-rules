@@ -147,3 +147,12 @@
 *://www.pagecloud.com/*
 *://southslopenews.com/*
 *://www.addtelegrammember.com/*
+*://fastestvpn.com/*
+*://technologyreviewer.com/*
+*://www.sfgate.com/*
+*://careerkarma.com/*
+*://www.simform.com/*
+*://gadgetstouse.com/*
+*://nicknamedb.com/*
+*://www.avast.com/*
+*://www.getdroidtips.com/*
