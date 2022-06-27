@@ -156,3 +156,6 @@
 *://nicknamedb.com/*
 *://www.avast.com/*
 *://www.getdroidtips.com/*
+*://www.template.net/*
+*://www.examples.com/*
+*://*.it/*
