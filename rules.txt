@@ -159,3 +159,9 @@
 *://www.template.net/*
 *://www.examples.com/*
 *://*.it/*
+*://www.imobie.com/*
+*://ina.scottexteriors.com/*
+*://www.facebook.com/*
+*://phoenixnap.com/*
+*://www.cyberciti.biz/*
+*://www.tecmint.com/*
