@@ -165,3 +165,10 @@
 *://phoenixnap.com/*
 *://www.cyberciti.biz/*
 *://www.tecmint.com/*
+*://achievetampabay.org/*
+*://riptutorial.com/*
+*://blog.codemagic.io/*
+*://www.bollyinside.com/*
+*://www.macgasm.net/*
+*://lifesaver.codes/*
+*://filext.com/*
