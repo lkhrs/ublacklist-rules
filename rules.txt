@@ -172,3 +172,10 @@
 *://www.macgasm.net/*
 *://lifesaver.codes/*
 *://filext.com/*
+*://www.ghacks.net/*
+*://homeguides.sfgate.com/*
+*://www.grammarly.com/*
+*://pytutorial.com/*
+*://gitanswer.net/*
+*://cpp.hotexamples.com/*
+*://www.searchenginejournal.com/*
