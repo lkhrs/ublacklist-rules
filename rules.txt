@@ -195,3 +195,9 @@
 *://www.forbesmagazine.com/*
 *://twitter.com/*
 *://www.instagram.com/*
+*://www.ionos.com/*
+*://mkdev.me/*
+*://www.macworld.com/*
+*://accesto.com/*
+*://engageinteractive.co.uk/*
+*://blog.trikoder.net/*
