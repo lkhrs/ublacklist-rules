@@ -201,3 +201,13 @@
 *://accesto.com/*
 *://engageinteractive.co.uk/*
 *://blog.trikoder.net/*
+*://www.webhostinghub.com/*
+*://betternotificationsforwp.com/*
+*://wpmailsmtp.com/*
+*://sunnyhq.io/*
+*://mediatemple.net/*
+*://www.codegrepper.com/*
+*://www.saashub.com/*
+*://www.expressvpn.com/*
+*://restoreprivacy.com/*
+*://topalter.com/*
