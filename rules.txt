@@ -211,3 +211,9 @@
 *://www.expressvpn.com/*
 *://restoreprivacy.com/*
 *://topalter.com/*
+*://askleo.com/*
+*://hugoseotheme.com/*
+*://www.moncefbelyamani.com/*
+*://www.codementor.io/*
+*://stackify.com/*
+*://coderwall.com/*
