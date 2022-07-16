@@ -217,3 +217,5 @@
 *://www.codementor.io/*
 *://stackify.com/*
 *://coderwall.com/*
+*://builtin.com/*
+*://www.delftstack.com/*
