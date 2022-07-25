@@ -2,11 +2,12 @@
 
 My personal set of rules for the [uBlacklist](https://github.com/iorate/ublacklist) search results filter.
 
-**Pull requests welcome\***
-
-\**only if you're cool and have some cool additions or advice.*
-
 Since I don't use the extension's sync feature, I regularly move new rules from the extension to this txt file, which is one of my subscribed lists in the extension. That way, I can keep things in sync and have a backup of my rules.
+
+## Broad rules
+
+- The entire Italy TLD (.it) is blocked - see [this](https://news.ycombinator.com/item?id=32201420) HN thread.
+
 
 Subscribe to this list:
 
