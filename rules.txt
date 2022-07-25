@@ -236,3 +236,8 @@
 *://ios.gadgethacks.com/*
 *://download.com.vn/*
 *://www.moyens.net/*
+*://whosnext.tmcf.org/*
+*://upgradedhome.com/*
+*://electronicshacks.com/*
+*://homepulp.com/*
+*://www.galvinpower.org/*
