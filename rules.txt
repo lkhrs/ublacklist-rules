@@ -241,3 +241,10 @@
 *://electronicshacks.com/*
 *://homepulp.com/*
 *://www.galvinpower.org/*
+*://www.inksaver.com/*
+*://www.lightstalking.com/*
+*://www.lifewire.com/*
+*://www.w3docs.com/*
+*://initialcommit.com/*
+*://www.deque.com/*
+*://www.thesuperficial.com/*
