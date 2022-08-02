@@ -248,3 +248,5 @@
 *://initialcommit.com/*
 *://www.deque.com/*
 *://www.thesuperficial.com/*
+*://www.tweaksforgeeks.com/*
+*://hygienefoodsafety.org/*
