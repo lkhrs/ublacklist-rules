@@ -250,3 +250,4 @@
 *://www.thesuperficial.com/*
 *://www.tweaksforgeeks.com/*
 *://hygienefoodsafety.org/*
+*://community.norton.com/*
