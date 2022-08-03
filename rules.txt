@@ -261,3 +261,9 @@
 *://cybernews.com/*
 *://www.technadu.com/*
 *://www.findyourvpn.com/*
+*://anat.nivona-promocja.pl/*
+*://qxbx.twojewiadomosci24.pl/*
+*://njr.twojewiadomosci24.pl/*
+*://*.99images.com/*
+*://*.applatest.com/*
+*://*.smarthomepoint.com/*
