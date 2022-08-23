@@ -6,8 +6,11 @@ Since I don't use the extension's sync feature, I regularly move new rules from 
 
 ## Broad rules
 
-- The entire Italy TLD (.it) is blocked - see [this](https://news.ycombinator.com/item?id=32201420) HN thread.
+Some TLDs are blocked. Someone is using randomly-generated domains on these TLDs to spam malware sites. See [this](https://news.ycombinator.com/item?id=32201420) HN thread.
 
+Blocked TLDs:
+- .it
+- .pl
 
 Subscribe to this list:
 
