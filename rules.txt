@@ -267,3 +267,5 @@
 *://*.99images.com/*
 *://*.applatest.com/*
 *://*.smarthomepoint.com/*
+*://*.top-music.top/*
+*://*.pl/*
