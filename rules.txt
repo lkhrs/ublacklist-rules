@@ -269,3 +269,11 @@
 *://*.smarthomepoint.com/*
 *://*.top-music.top/*
 *://*.pl/*
+*://*.bringyourownlaptop.com/*
+*://*.fontpair.co/*
+*://*.designerly.com/*
+*://*.presentitude.com/*
+*://*.sliderrevolution.com/*
+*://*.aachub.life/*
+*://*.gadgetreview.com/*
+*://*.esportstales.com/*
