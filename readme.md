@@ -2,8 +2,11 @@
 
 My personal set of rules for the [uBlacklist](https://github.com/iorate/ublacklist) search results filter.
 
-Since I don't use the extension's sync feature, I regularly move new rules from the extension to this txt file, which is one of my subscribed lists in the extension. That way, I can keep things in sync and have a backup of my rules.
+Subscribe to this list:
 
+```
+https://raw.githubusercontent.com/lkhrs/ublacklist-rules/main/rules.txt
+```
 ## Broad rules
 
 Some TLDs are blocked. Someone is using randomly-generated domains on these TLDs to spam malware sites. See [this](https://news.ycombinator.com/item?id=32201420) HN thread.
@@ -12,12 +15,6 @@ Blocked TLDs:
 - .it
 - .pl
 - .de
-
-Subscribe to this list:
-
-```
-https://raw.githubusercontent.com/lkhrs/ublacklist-rules/main/rules.txt
-```
 
 ## Todo
 
