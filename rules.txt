@@ -280,3 +280,6 @@
 *://*.cnet.com/*
 *://*.freedownloadmanager.org/*
 *://*.de/*
+*://*.nl/*
+*://*.shop/*
+*://*.facebook.com/*
