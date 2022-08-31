@@ -11,6 +11,7 @@ Some TLDs are blocked. Someone is using randomly-generated domains on these TLDs
 Blocked TLDs:
 - .it
 - .pl
+- .de
 
 Subscribe to this list:
 

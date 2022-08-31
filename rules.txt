@@ -277,3 +277,6 @@
 *://*.aachub.life/*
 *://*.gadgetreview.com/*
 *://*.esportstales.com/*
+*://*.cnet.com/*
+*://*.freedownloadmanager.org/*
+*://*.de/*
