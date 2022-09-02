@@ -283,3 +283,9 @@
 *://*.nl/*
 *://*.shop/*
 *://*.facebook.com/*
+*://*.certifiedmaillabels.com/*
+*://*.simplecertifiedmail.com/*
+*://*.switchmail.com/*
+*://*.usglobalmail.com/*
+*://*.moneysavingpro.com/*
+*://*.cuchimes.com/*
