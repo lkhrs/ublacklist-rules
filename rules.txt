@@ -289,3 +289,9 @@
 *://*.usglobalmail.com/*
 *://*.moneysavingpro.com/*
 *://*.cuchimes.com/*
+*://*.bitrecover.com/*
+*://*.recoverytools.com/*
+*://*.sysconverter.com/*
+*://*.clean.email/*
+*://*.softwareimperial.com/*
+*://*.creativebloq.com/*
