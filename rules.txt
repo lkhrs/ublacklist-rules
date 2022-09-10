@@ -295,3 +295,5 @@
 *://*.clean.email/*
 *://*.softwareimperial.com/*
 *://*.creativebloq.com/*
+*://*.themeforest.net/*
+*://*.atozwiki.com/*
