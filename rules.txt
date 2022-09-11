@@ -297,3 +297,7 @@
 *://*.creativebloq.com/*
 *://*.themeforest.net/*
 *://*.atozwiki.com/*
+*://*.pocketnow.com/*
+*://*.topbestalternatives.com/*
+*://*.exputer.com/*
+*://*.consumergravity.com/*
