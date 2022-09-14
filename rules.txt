@@ -301,3 +301,6 @@
 *://*.topbestalternatives.com/*
 *://*.exputer.com/*
 *://*.consumergravity.com/*
+*://*.hackr.io/*
+*://*.cmarix.com/*
+*://*.install.guide/*
