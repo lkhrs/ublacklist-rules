@@ -301,3 +301,6 @@
 *://*.topbestalternatives.com/*
 *://*.exputer.com/*
 *://*.consumergravity.com/*
+*://*.back4app.com/*
+*://*.vpsserver.com/*
+*://*.hostingpill.com/*
