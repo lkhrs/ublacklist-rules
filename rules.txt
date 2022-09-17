@@ -304,3 +304,6 @@
 *://*.back4app.com/*
 *://*.vpsserver.com/*
 *://*.hostingpill.com/*
+*://*.hackr.io/*
+*://*.cmarix.com/*
+*://*.install.guide/*
