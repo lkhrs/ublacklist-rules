@@ -304,3 +304,8 @@
 *://*.hackr.io/*
 *://*.cmarix.com/*
 *://*.install.guide/*
+*://*.fantashit.com/*
+*://*.javatpoint.com/*
+*://*.worldofdev.info/*
+*://*.onaircode.com/*
+*://*.w3codepen.com/*
