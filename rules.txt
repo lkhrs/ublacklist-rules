@@ -312,3 +312,5 @@
 *://*.worldofdev.info/*
 *://*.onaircode.com/*
 *://*.w3codepen.com/*
+*://*.streamscheme.com/*
+*://*.technical-qa.com/*
