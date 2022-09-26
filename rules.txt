@@ -314,3 +314,5 @@
 *://*.w3codepen.com/*
 *://*.streamscheme.com/*
 *://*.technical-qa.com/*
+*://*.webtopic.com/*
+*://*.codeconvey.com/*
