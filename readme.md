@@ -15,6 +15,7 @@ Blocked TLDs:
 - .it
 - .pl
 - .de
+- .info
 
 ## Todo
 
