@@ -316,3 +316,4 @@
 *://*.technical-qa.com/*
 *://*.webtopic.com/*
 *://*.codeconvey.com/*
+*://www.goldtouch.com/*
