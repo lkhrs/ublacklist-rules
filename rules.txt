@@ -317,3 +317,4 @@
 *://*.webtopic.com/*
 *://*.codeconvey.com/*
 *://www.goldtouch.com/*
+*://otfocus.com/*
