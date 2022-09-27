@@ -319,3 +319,5 @@
 *://www.goldtouch.com/*
 *://otfocus.com/*
 *://*.info/*
+*://*.zeo.org/*
+*://*.brytdesigns.com/*
