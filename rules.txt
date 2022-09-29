@@ -325,4 +325,7 @@
 *://*.9to5google.com/*
 *://*.addictivetips.com/*
 *://*.igeeksblog.com/*
-*://*.idownloadblog.com/*
+*://*.idownloadblog.com/**://*.file-extension.org/*
+*://*.frameboxxindore.com/*
+*://*.compuhoy.com/*
+*://*.fr/*
