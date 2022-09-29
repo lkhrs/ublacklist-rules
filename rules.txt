@@ -330,4 +330,4 @@
 *://*.compuhoy.com/*
 *://*.fr/**://blog.bytegrad.com/*
 *://w3collective.com/*
-*://www.includehelp.com/*
+*://www.includehelp.com/**://*.stackshare.io/*
