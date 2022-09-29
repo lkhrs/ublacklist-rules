@@ -328,4 +328,6 @@
 *://*.idownloadblog.com/**://*.file-extension.org/*
 *://*.frameboxxindore.com/*
 *://*.compuhoy.com/*
-*://*.fr/*
+*://*.fr/**://blog.bytegrad.com/*
+*://w3collective.com/*
+*://www.includehelp.com/*
