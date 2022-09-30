@@ -335,4 +335,3 @@
 *://www.includehelp.com/*
 *://*.stackshare.io/*
 *://*.g2.com/*
-*://*.stackshare.io/*
