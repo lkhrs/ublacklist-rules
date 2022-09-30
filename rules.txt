@@ -325,9 +325,12 @@
 *://*.9to5google.com/*
 *://*.addictivetips.com/*
 *://*.igeeksblog.com/*
-*://*.idownloadblog.com/**://*.file-extension.org/*
+*://*.idownloadblog.com/*
+*://*.file-extension.org/*
 *://*.frameboxxindore.com/*
 *://*.compuhoy.com/*
-*://*.fr/**://blog.bytegrad.com/*
+*://*.fr/*
+*://blog.bytegrad.com/*
 *://w3collective.com/*
-*://www.includehelp.com/**://*.stackshare.io/*
+*://www.includehelp.com/*
+*://*.stackshare.io/*
