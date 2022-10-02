@@ -338,4 +338,4 @@
 *://*.g2.com/*
 *://*.stackshare.io/*
 *://*.sourceforge.net/*
-*://*.slashdot.org/*
+*://*.slashdot.org/**://www.studytonight.com/*
