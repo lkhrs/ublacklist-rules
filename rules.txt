@@ -338,4 +338,11 @@
 *://*.g2.com/*
 *://*.stackshare.io/*
 *://*.sourceforge.net/*
-*://*.slashdot.org/**://www.studytonight.com/*
+*://*.slashdot.org/**://www.studytonight.com/**://freefrontend.com/*
+*://www.csscodelab.com/*
+*://code-boxx.com/*
+*://www.free-css-menu.com/*
+*://www.codewithrandom.com/*
+*://usejquery.com/*
+*://csshint.com/*
+*://fox2now.com/*
