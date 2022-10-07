@@ -338,7 +338,9 @@
 *://*.g2.com/*
 *://*.stackshare.io/*
 *://*.sourceforge.net/*
-*://*.slashdot.org/**://www.studytonight.com/**://freefrontend.com/*
+*://*.slashdot.org/*
+*://www.studytonight.com/*
+*://freefrontend.com/*
 *://www.csscodelab.com/*
 *://code-boxx.com/*
 *://www.free-css-menu.com/*
