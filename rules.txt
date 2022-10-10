@@ -357,4 +357,8 @@
 *://loadfun430.tumblr.com/*
 *://www.softwareadvice.com/*
 *://designshack.net/*
-*://webfree.industrialmill.com/*
+*://webfree.industrialmill.com/**://freefrontend.com/*
+*://www.w3tweaks.com/*
+*://www.webtutorialsource.com/*
+*://codemyui.com/*
+*://www.c-sharpcorner.com/*
