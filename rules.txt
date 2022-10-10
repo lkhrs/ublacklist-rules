@@ -361,4 +361,12 @@
 *://www.w3tweaks.com/*
 *://www.webtutorialsource.com/*
 *://codemyui.com/*
-*://www.c-sharpcorner.com/*
+*://www.c-sharpcorner.com/**://www.designbuckle.com/*
+*://zabeelinstitute.ae/*
+*://www.slintel.com/*
+*://www.w3schools.io/*
+*://www.relexsolutions.com/*
+*://newdevzone.com/*
+*://host.lotusblossomconsulting.com/*
+*://zhuanlan.zhihu.com/*
+*://sublimetext-app.com/*
