@@ -369,4 +369,8 @@
 *://newdevzone.com/*
 *://host.lotusblossomconsulting.com/*
 *://zhuanlan.zhihu.com/*
-*://sublimetext-app.com/*
+*://sublimetext-app.com/**://*.gadgetbridge.com/*
+*://*.schedulicity.com/*
+*://*.cofonts.com/*
+*://*.unix.com/*
+*://*.hexnode.com/*
