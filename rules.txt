@@ -373,4 +373,7 @@
 *://*.schedulicity.com/*
 *://*.cofonts.com/*
 *://*.unix.com/*
-*://*.hexnode.com/*
+*://*.hexnode.com/**://*.softwaretestinghelp.com/*
+*://*.professionalqa.com/*
+*://*.edureviewer.com/*
+*://*.localazy.com/*
