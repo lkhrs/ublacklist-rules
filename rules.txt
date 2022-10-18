@@ -376,4 +376,9 @@
 *://*.hexnode.com/**://*.softwaretestinghelp.com/*
 *://*.professionalqa.com/*
 *://*.edureviewer.com/*
+*://*.localazy.com/**://*.softwaretestinghelp.com/*
+*://*.professionalqa.com/*
+*://*.edureviewer.com/*
 *://*.localazy.com/*
+*://*.earthinversion.com/*
+*://*.dhpartner.com/*
