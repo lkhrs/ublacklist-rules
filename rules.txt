@@ -381,4 +381,6 @@
 *://*.edureviewer.com/*
 *://*.localazy.com/*
 *://*.earthinversion.com/*
-*://*.dhpartner.com/*
+*://*.dhpartner.com/**://*.bitcatcha.com/*
+*://*.iliensale.com/*
+*://*.9to5answer.com/*
