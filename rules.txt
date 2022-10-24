@@ -383,4 +383,5 @@
 *://*.earthinversion.com/*
 *://*.dhpartner.com/**://*.bitcatcha.com/*
 *://*.iliensale.com/*
-*://*.9to5answer.com/*
+*://*.9to5answer.com/**://*.webforefront.com/*
+*://*.daily.co/*
