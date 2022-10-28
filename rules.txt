@@ -384,4 +384,14 @@
 *://*.dhpartner.com/**://*.bitcatcha.com/*
 *://*.iliensale.com/*
 *://*.9to5answer.com/**://*.webforefront.com/*
-*://*.daily.co/*
+*://*.daily.co/**://*.fontshome.net/*
+*://*.yesfordev.com/*
+*://*.w3guides.com/*
+*://*.programmersportal.com/*
+*://*.thiscodeworks.com/*
+*://*.element.how/*
+*://*.generatepress-guides.com/*
+*://*.dzone.com/*
+*://*.uxplanet.org/*
+*://*.appcues.com/*
+*://*.angularfixing.com/*
