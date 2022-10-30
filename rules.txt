@@ -394,4 +394,6 @@
 *://*.dzone.com/*
 *://*.uxplanet.org/*
 *://*.appcues.com/*
-*://*.angularfixing.com/*
+*://*.angularfixing.com/**://networklessons.com/*
+*://approvedmodems.com/*
+*://you.com/*
