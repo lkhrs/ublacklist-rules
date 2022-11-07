@@ -396,4 +396,9 @@
 *://*.appcues.com/*
 *://*.angularfixing.com/**://networklessons.com/*
 *://approvedmodems.com/*
-*://you.com/*
+*://you.com/**://*.apoorv.blog/*
+*://*.thinkweb.dev/*
+*://*.refine.dev/*
+*://*.govconwire.com/*
+*://*.fedscoop.com/*
+*://*.macpaw.com/*
