@@ -403,4 +403,4 @@
 *://*.fedscoop.com/*
 *://*.macpaw.com/**://macsecurity.net/*
 *://www.tenorshare.com/*
-*://linguaholic.com/*
+*://linguaholic.com/**://*.alvarotrigo.com/*
