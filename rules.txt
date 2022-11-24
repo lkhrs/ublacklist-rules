@@ -403,4 +403,5 @@
 *://*.fedscoop.com/*
 *://*.macpaw.com/**://macsecurity.net/*
 *://www.tenorshare.com/*
-*://linguaholic.com/**://*.alvarotrigo.com/*
+*://linguaholic.com/**://*.alvarotrigo.com/**://www.howtoisolve.com/*
+*://cleanpcinfections.com/*
