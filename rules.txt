@@ -406,4 +406,5 @@
 *://linguaholic.com/**://*.alvarotrigo.com/**://www.howtoisolve.com/*
 *://cleanpcinfections.com/**://*.alvarotrigo.com/*
 *://*.shoppok.com/*
-*://*.yellowpages.com/*
+*://*.yellowpages.com/**://*.fontstand.com/*
+*://*.haireveryday.com/*
