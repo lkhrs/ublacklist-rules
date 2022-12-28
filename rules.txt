@@ -407,4 +407,12 @@
 *://cleanpcinfections.com/**://*.alvarotrigo.com/*
 *://*.shoppok.com/*
 *://*.yellowpages.com/**://*.fontstand.com/*
-*://*.haireveryday.com/*
+*://*.haireveryday.com/**://*.decentralizedcreator.com/*
+*://*.techpout.com/*
+*://*.macsecurity.net/*
+*://*.alvarotrigo.com/*
+*://*.drbuho.com/*
+*://*.softwaretested.com/*
+*://*.irs.com/*
+*://*.vpsranking.com/*
+*://*.hostingengines.com/*
