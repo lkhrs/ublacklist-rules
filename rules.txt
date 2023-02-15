@@ -450,3 +450,4 @@
 *://*.ttrdatarecovery.com/*
 *://*.logic-fruit.com/*
 *://*.eve-skillplan.net/*
+*://*.confection.io/*
