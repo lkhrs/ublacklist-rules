@@ -451,3 +451,10 @@
 *://*.logic-fruit.com/*
 *://*.eve-skillplan.net/*
 *://*.confection.io/*
+*://www.querythreads.com/*
+*://www.majorgeeks.com/*
+*://itechbrand.com/*
+*://macpaw.com/*
+*://www.macoszon.com/*
+*://iphonegeeks.com/*
+*://www.valuewalk.com/*
