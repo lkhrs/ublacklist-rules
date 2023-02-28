@@ -458,3 +458,6 @@
 *://www.macoszon.com/*
 *://iphonegeeks.com/*
 *://www.valuewalk.com/*
+*://www.maketecheasier.com/*
+*://www.cloudpages.cloud/*
+*://www.pinterest.com/*
