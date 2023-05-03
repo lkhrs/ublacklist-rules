@@ -461,3 +461,6 @@
 *://www.maketecheasier.com/*
 *://www.cloudpages.cloud/*
 *://www.pinterest.com/*
+*://*.freecodecamp.org/*
+@*://*.javascript.info/*
+*://*.thedevnews.com/*
