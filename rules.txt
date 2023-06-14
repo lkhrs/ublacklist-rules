@@ -464,3 +464,4 @@
 *://*.freecodecamp.org/*
 @*://*.javascript.info/*
 *://*.thedevnews.com/*
+*://www.reddit.com/*
