@@ -465,3 +465,4 @@
 @*://*.javascript.info/*
 *://*.thedevnews.com/*
 *://www.reddit.com/*
+*://www.wren-clothing.com/*
