@@ -466,3 +466,6 @@
 *://*.thedevnews.com/*
 *://www.reddit.com/*
 *://www.wren-clothing.com/*
+*://locall.host/*
+*://blogchamps.com/*
+*://techtips.easycloudsolutions.com/*
