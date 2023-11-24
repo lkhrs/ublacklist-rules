@@ -464,7 +464,6 @@
 *://*.freecodecamp.org/*
 @*://*.javascript.info/*
 *://*.thedevnews.com/*
-*://www.reddit.com/*
 *://www.wren-clothing.com/*
 *://locall.host/*
 *://blogchamps.com/*
