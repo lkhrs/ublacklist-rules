@@ -468,7 +468,6 @@
 *://locall.host/*
 *://blogchamps.com/*
 *://techtips.easycloudsolutions.com/*
-
 *://techbrowser.co/*
 *://apps-on-mac.com/*
 *://www.thegamefox.net/*
