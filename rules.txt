@@ -476,3 +476,5 @@
 *://www.buzzfeednews.com/*
 *://www.engadget.com/*
 *://www.yahoo.com/*
+*://business-essay.com/*
+*://www.wheelsforwishes.org/*
