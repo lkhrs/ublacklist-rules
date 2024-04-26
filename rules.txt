@@ -478,3 +478,7 @@
 *://www.yahoo.com/*
 *://business-essay.com/*
 *://www.wheelsforwishes.org/*
+*://vuink.com/*
+*://zetcode.com/*
+*://algohaven.com/*
+*://www.programiz.com/*
