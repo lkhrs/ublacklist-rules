@@ -482,3 +482,4 @@
 *://zetcode.com/*
 *://algohaven.com/*
 *://www.programiz.com/*
+*://trucksauthority.com/*
