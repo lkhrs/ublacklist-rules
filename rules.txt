@@ -603,3 +603,5 @@
 *://www.xda-developers.com/*
 *://www.givemesport.com/*
 *://www.valnetinc.com/*
+*://mikrotik191.rssing.com/*
+*://ofb.biz/*
