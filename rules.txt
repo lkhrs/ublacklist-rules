@@ -606,3 +606,12 @@
 *://mikrotik191.rssing.com/*
 *://ofb.biz/*
 *://*.fandom.com/*
+*://www.ms8.com/*
+*://www.makeuseof.com/*
+*://www.techradar.com/*
+*://askthedev.com/*
+*://www.simplymac.com/*
+*://www.cisdem.com/*
+*://beebom.com/*
+*://www.techlockdown.com/*
+*://mobileinternist.com/*
