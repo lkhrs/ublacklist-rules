@@ -615,3 +615,12 @@
 *://beebom.com/*
 *://www.techlockdown.com/*
 *://mobileinternist.com/*
+*://www.selfemployed.com/*
+*://www.hellobonsai.com/*
+*://www.ps.cpa/*
+*://www.trustedreviews.com/*
+*://huehomelighting.com/*
+*://smarthomeways.com/*
+*://smarterve.com/*
+*://smartgeekhome.com/*
+*://appletoolbox.com/*
