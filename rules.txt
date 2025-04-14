@@ -624,3 +624,13 @@
 *://smarterve.com/*
 *://smartgeekhome.com/*
 *://appletoolbox.com/*
+/https?:\/\/www\.amazon\.[^\/]+\/.*/i
+*://www.foamfacts.com/*
+*://unionacoustic.com.sg/*
+*://homestudioexpert.com/*
+*://www.soundproofwise.com/*
+*://www.target.com/*
+*://glossykitchen.com/*
+*://theproperkitchen.com/*
+*://www.chefsresource.com/*
+*://www.sportskeeda.com/*
