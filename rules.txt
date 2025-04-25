@@ -634,3 +634,8 @@
 *://theproperkitchen.com/*
 *://www.chefsresource.com/*
 *://www.sportskeeda.com/*
+*://www.ipv6.rs/*
+*://www.slingacademy.com/*
+*://www.answeroverflow.com/*
+*://www.simplifyllc.com/*
+*://umatechnology.org/*
