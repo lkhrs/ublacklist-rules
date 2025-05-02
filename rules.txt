@@ -639,3 +639,9 @@
 *://www.answeroverflow.com/*
 *://www.simplifyllc.com/*
 *://umatechnology.org/*
+*://llcradar.com/*
+*://www.thesmbguide.com/*
+*://bluenotary.us/*
+*://www.noobpreneur.com/*
+*://9meters.com/*
+*://macdailynews.com/*
