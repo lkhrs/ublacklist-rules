@@ -651,3 +651,4 @@
 *://blog.pcrisk.com/*
 *://bluerecruit.us/*
 *://www.geeky-gadgets.com/*
+*://www.polygon.com/*
