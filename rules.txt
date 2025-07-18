@@ -652,3 +652,8 @@
 *://bluerecruit.us/*
 *://www.geeky-gadgets.com/*
 *://www.polygon.com/*
+*://itsfoss.com/*
+*://news.itsfoss.com/*
+*://decibelpeak.com/*
+*://themefisher.com/*
+*://insurefuturenow.com/*
